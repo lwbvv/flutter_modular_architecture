@@ -1,4 +1,4 @@
-library data_type;
+library common;
 
 /// A Calculator.
 class Calculator {
