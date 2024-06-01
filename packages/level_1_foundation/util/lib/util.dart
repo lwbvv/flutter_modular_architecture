@@ -1,7 +1,6 @@
 library util;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/double/double.dart';
+export 'src/int/int.dart';
+export 'src/future/future.dart';
+export 'src/iterable/iterable.dart';
